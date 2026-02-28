@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pragmarx/google2fa": "^9.0",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
